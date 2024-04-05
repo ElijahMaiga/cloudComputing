@@ -2,7 +2,7 @@ name: Run Docker Containers
 on:
  push:
    branches:
-     - master 
+     - main
 #on:
  # schedule: 
   # - cron: "0 2 * * 1-6"    
