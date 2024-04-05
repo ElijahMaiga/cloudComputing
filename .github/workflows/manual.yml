@@ -21,4 +21,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: ubteb/barasa_cloud_computing:v1  
+          tags: ubteb/barasa_cloud_computing:v2  
